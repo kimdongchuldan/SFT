@@ -1,0 +1,265 @@
+[
+  {
+    "tid": "떡볶이",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0,
+    "measured_time": 0
+  },
+  {
+    "tid": "떡볶이_받침",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 0
+  },
+  {
+    "tid": "떡볶이_접시",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "떡볶이_접시",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 0
+  },
+  {
+    "tid": "떡볶이_국자",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "떡볶이_국자",
+    "pickup": "",
+    "putdown": "떡볶이",
+    "process_time": 0,
+    "measured_time": 0
+  },
+  {
+    "tid": "떡볶이_철판",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [
+      "떡볶이_재료"
+    ],
+    "optional_parts": [],
+    "prefab": "떡볶이_철판",
+    "pickup": "떡볶이_국자",
+    "putdown": "",
+    "process_time": 0,
+    "measured_time": 0
+  },
+  {
+    "tid": "떡볶이_재료",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "떡볶이_재료",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 0
+  },
+  {
+    "tid": "계란",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 0
+  },
+  {
+    "tid": "튀김",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 0
+  },
+  {
+    "tid": "떡볶이_1",
+    "desc": "",
+    "decay_time": 20,
+    "lv": 1,
+    "sequential_parts": [
+      "떡볶이_접시",
+      "떡볶이"
+    ],
+    "optional_parts": [
+      "튀김",
+      "계란"
+    ],
+    "prefab": "떡볶이_1",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 4
+  },
+  {
+    "tid": "떡볶이_2",
+    "desc": "",
+    "decay_time": 20,
+    "lv": 2,
+    "sequential_parts": [
+      "떡볶이_1",
+      "떡볶이_1"
+    ],
+    "optional_parts": [
+      "튀김",
+      "계란"
+    ],
+    "prefab": "",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 8
+  },
+  {
+    "tid": "떡볶이_3",
+    "desc": "",
+    "decay_time": 20,
+    "lv": 3,
+    "sequential_parts": [
+      "떡볶이_2",
+      "떡볶이_2"
+    ],
+    "optional_parts": [
+      "튀김",
+      "계란"
+    ],
+    "prefab": "",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 16
+  },
+  {
+    "tid": "",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 0,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0,
+    "measured_time": 0
+  },
+  {
+    "tid": "어묵_1",
+    "desc": "",
+    "decay_time": 20,
+    "lv": 1,
+    "sequential_parts": [
+      "어묵컵",
+      "어묵"
+    ],
+    "optional_parts": [],
+    "prefab": "어묵_1",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 3
+  },
+  {
+    "tid": "어묵_2",
+    "desc": "",
+    "decay_time": 20,
+    "lv": 2,
+    "sequential_parts": [
+      "어묵_1",
+      "어묵_1"
+    ],
+    "optional_parts": [],
+    "prefab": "어묵_2",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 6
+  },
+  {
+    "tid": "어묵_3",
+    "desc": "",
+    "decay_time": 20,
+    "lv": 3,
+    "sequential_parts": [
+      "어묵_2",
+      "어묵_2"
+    ],
+    "optional_parts": [],
+    "prefab": "어묵_3",
+    "pickup": "",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 9
+  },
+  {
+    "tid": "어묵컵",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "어묵컵",
+    "pickup": "어묵컵",
+    "putdown": "",
+    "process_time": 0.1,
+    "measured_time": 0
+  },
+  {
+    "tid": "어묵국자",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "어묵국자",
+    "pickup": "",
+    "putdown": "어묵",
+    "process_time": 0,
+    "measured_time": 0
+  },
+  {
+    "tid": "어묵",
+    "desc": "",
+    "decay_time": 0,
+    "lv": 1,
+    "sequential_parts": [],
+    "optional_parts": [],
+    "prefab": "어묵",
+    "pickup": "어묵국자",
+    "putdown": "",
+    "process_time": 0,
+    "measured_time": 0
+  }
+]
