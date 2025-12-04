@@ -1,0 +1,214 @@
+guest13.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.95
+arm L_1
+bounds:179,14,168,148
+offsets:1,1,169,149
+rotate:90
+arm L_2
+bounds:887,198,98,146
+offsets:1,1,100,148
+arm R_1
+bounds:2,7,138,175
+offsets:0,1,139,177
+rotate:90
+arm R_2
+bounds:769,194,150,116
+offsets:0,1,151,118
+rotate:90
+body
+bounds:655,791,231,347
+rotate:90
+brow L
+bounds:955,346,55,22
+offsets:1,1,57,24
+brow L angry
+bounds:960,576,62,25
+offsets:1,1,64,27
+rotate:90
+brow L happy
+bounds:994,530,55,28
+offsets:1,1,57,29
+rotate:90
+brow R
+bounds:926,347,67,27
+offsets:0,1,68,29
+rotate:90
+brow R angry
+bounds:1004,946,76,18
+offsets:2,2,79,21
+rotate:90
+brow R happy
+bounds:987,587,66,35
+offsets:0,0,67,35
+rotate:90
+center
+bounds:419,288,201,146
+rotate:90
+ear L
+bounds:579,22,54,65
+rotate:90
+eye L
+bounds:946,57,31,33
+rotate:90
+eye R
+bounds:946,90,34,33
+eyeball L
+bounds:283,184,44,46
+offsets:1,0,45,47
+eyeball R
+bounds:960,420,49,48
+offsets:0,1,49,49
+eyeline L
+bounds:987,287,57,31
+offsets:1,1,59,32
+rotate:90
+eyeline L angry
+bounds:763,19,58,34
+offsets:1,1,60,35
+eyeline L angry smile
+bounds:963,655,59,32
+offsets:1,1,61,34
+eyeline R
+bounds:865,56,63,38
+offsets:0,1,64,39
+rotate:90
+eyeline R angry
+bounds:985,134,62,37
+offsets:1,1,64,38
+rotate:90
+eyeline R smile
+bounds:960,470,62,33
+offsets:1,1,64,34
+eyeunder L
+bounds:567,448,41,23
+offsets:1,0,42,24
+rotate:90
+eyeunder L angry
+bounds:533,2,42,23
+offsets:1,2,44,26
+eyeunder R
+bounds:987,240,45,26
+offsets:1,1,46,28
+rotate:90
+eyeunder R angry
+bounds:960,370,48,25
+offsets:1,1,50,27
+rotate:90
+face
+bounds:326,491,228,266
+rotate:90
+foot L
+bounds:769,121,140,71
+offsets:1,0,141,72
+foot R
+bounds:758,346,86,95
+offsets:1,0,87,95
+game
+bounds:853,416,222,105
+offsets:2,0,224,105
+rotate:90
+game effect 1
+bounds:823,17,36,52
+offsets:1,1,38,54
+rotate:90
+game effect 2
+bounds:987,202,29,36
+offsets:1,1,31,38
+game effect 3
+bounds:195,455,39,71
+offsets:1,1,41,72
+rotate:90
+glasses_frame
+bounds:427,95,191,77
+rotate:90
+glasses_lens 1
+bounds:506,109,177,74
+rotate:90
+glasses_lens 2
+bounds:693,133,177,74
+rotate:90
+hair 1_1
+bounds:567,312,129,189
+rotate:90
+hair 1_2
+bounds:594,443,257,195
+hair 2_L
+bounds:694,21,41,60
+offsets:0,0,41,93
+hair 2_R
+bounds:646,21,46,55
+hair 3_1
+bounds:594,646,57,73
+offsets:1,1,59,74
+hair 3_2
+bounds:877,13,28,41
+offsets:1,1,29,42
+hair pony_L
+bounds:195,496,129,526
+hair pony_R
+bounds:2,455,191,567
+offsets:0,14,191,581
+hand L_1
+bounds:911,125,72,71
+offsets:0,1,72,72
+hand R_1
+bounds:427,18,104,75
+offsets:1,1,105,76
+hand R_2
+bounds:846,346,78,68
+offsets:0,1,79,69
+hand R_3
+bounds:963,689,56,100
+offsets:1,1,60,102
+hand R_4
+bounds:582,78,71,106
+offsets:1,1,73,108
+rotate:90
+hand R_5 a
+bounds:769,55,94,64
+offsets:0,1,95,66
+hand R_5 b
+bounds:905,74,45,39
+offsets:0,1,45,40
+rotate:90
+headset 1
+bounds:326,721,327,301
+headset2
+bounds:582,151,109,159
+leg L_1
+bounds:156,184,125,269
+leg L_2
+bounds:655,640,149,306
+rotate:90
+leg R_1
+bounds:283,232,134,257
+leg R_2
+bounds:2,147,152,306
+mouth 1
+bounds:960,505,69,32
+offsets:1,1,71,34
+rotate:90
+mouth 2
+bounds:533,27,80,44
+offsets:1,1,83,46
+rotate:90
+mouth 3
+bounds:737,18,63,24
+offsets:1,3,65,28
+rotate:90
+mouth 4
+bounds:690,83,77,48
+offsets:1,0,79,49
+mouth 5
+bounds:577,2,69,17
+offsets:1,1,71,19
+nose
+bounds:987,375,35,43
+offsets:1,1,37,47
+shadow0
+bounds:329,12,218,96
+offsets:3,0,224,98
+rotate:90

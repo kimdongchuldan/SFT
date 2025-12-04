@@ -1,0 +1,17 @@
+[
+  {
+    "tid": "손님_07",
+    "desc": "",
+    "prefab": "guest07"
+  },
+  {
+    "tid": "손님_13",
+    "desc": "",
+    "prefab": "guest13"
+  },
+  {
+    "tid": "유령",
+    "desc": "",
+    "prefab": "ghost"
+  }
+]

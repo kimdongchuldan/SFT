@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 0c68ab0407c5daa47a6ed713ffd8ddbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6380082506223702916
+    second: guest13_0
+  - first:
+      213: 1278636465513963282
+    second: guest13_1
+  - first:
+      213: -2341666295851706080
+    second: guest13_2
+  - first:
+      213: -8880212501717495422
+    second: guest13_3
+  - first:
+      213: -2215194826255144278
+    second: guest13_4
+  - first:
+      213: 9098811798221182061
+    second: guest13_5
+  - first:
+      213: 3042118327597246178
+    second: guest13_6
+  - first:
+      213: 3586144976615064268
+    second: guest13_7
+  - first:
+      213: 1281526576242476946
+    second: guest13_8
+  - first:
+      213: 727116567452644402
+    second: guest13_9
+  - first:
+      213: -8616385574085127397
+    second: guest13_10
+  - first:
+      213: 5137228792288034093
+    second: guest13_11
+  - first:
+      213: 994240701093337032
+    second: guest13_12
+  - first:
+      213: 6968312423669356846
+    second: guest13_13
+  - first:
+      213: -4002021937645064611
+    second: guest13_14
+  - first:
+      213: -5001240423665694288
+    second: guest13_15
+  - first:
+      213: 2646962821888613896
+    second: guest13_16
+  - first:
+      213: -2140676211112533092
+    second: guest13_17
+  - first:
+      213: 8591386829499152758
+    second: guest13_18
+  - first:
+      213: 8031211009676947992
+    second: guest13_19
+  - first:
+      213: -725246259193232015
+    second: guest13_20
+  - first:
+      213: -6712024611678192874
+    second: guest13_21
+  - first:
+      213: 6880408292870260919
+    second: guest13_22
+  - first:
+      213: 47350503174528839
+    second: guest13_23
+  - first:
+      213: 4383828943504448521
+    second: guest13_24
+  - first:
+      213: -3807968951441615031
+    second: guest13_25
+  - first:
+      213: -265167844283918443
+    second: guest13_26
+  - first:
+      213: -8308783596123215161
+    second: guest13_27
+  - first:
+      213: -6162598066241423460
+    second: guest13_28
+  - first:
+      213: 3411260856651950206
+    second: guest13_29
+  - first:
+      213: 6717007630303080703
+    second: guest13_30
+  - first:
+      213: 7140572136273280544
+    second: guest13_31
+  - first:
+      213: 5634419158864418333
+    second: guest13_32
+  - first:
+      213: 1539556060834772961
+    second: guest13_33
+  - first:
+      213: -7348774377242609127
+    second: guest13_34
+  - first:
+      213: -8310581268891567116
+    second: guest13_35
+  - first:
+      213: 9024285296924503639
+    second: guest13_36
+  - first:
+      213: 3812262860428814934
+    second: guest13_37
+  - first:
+      213: -1815589008950563398
+    second: guest13_38
+  - first:
+      213: 699108849972869448
+    second: guest13_39
+  - first:
+      213: -7991146052051271567
+    second: guest13_40
+  - first:
+      213: 2112279063951104873
+    second: guest13_41
+  - first:
+      213: 146522926603437680
+    second: guest13_42
+  - first:
+      213: -7040965231694726075
+    second: guest13_43
+  - first:
+      213: 1771214121345167029
+    second: guest13_44
+  - first:
+      213: 7611338804317799667
+    second: guest13_45
+  - first:
+      213: 1565871955335195410
+    second: guest13_46
+  - first:
+      213: -4631943948877063758
+    second: guest13_47
+  - first:
+      213: 9167618126055150974
+    second: guest13_48
+  - first:
+      213: -5794129080317536063
+    second: guest13_49
+  - first:
+      213: 846959295266916367
+    second: guest13_50
+  - first:
+      213: -5006728370456547215
+    second: guest13_51
+  - first:
+      213: -2747792641943921369
+    second: guest13_52
+  - first:
+      213: -6569579893634277247
+    second: guest13_53
+  - first:
+      213: -7437278620528175725
+    second: guest13_54
+  - first:
+      213: 4909138446623678363
+    second: guest13_55
+  - first:
+      213: 1037493891751267756
+    second: guest13_56
+  - first:
+      213: 5292229874186222982
+    second: guest13_57
+  - first:
+      213: 4609772617418579111
+    second: guest13_58
+  - first:
+      213: -6262012540740960710
+    second: guest13_59
+  - first:
+      213: 3067518472390680460
+    second: guest13_60
+  - first:
+      213: 3042975370451936855
+    second: guest13_61
+  - first:
+      213: 8007859224966770229
+    second: guest13_62
+  - first:
+      213: -2553266082248735798
+    second: guest13_63
+  - first:
+      213: 7185971149035046309
+    second: guest13_64
+  - first:
+      213: 4392916872594879868
+    second: guest13_65
+  - first:
+      213: -2466600957463152157
+    second: guest13_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guest13_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 878
+        width: 177
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483d52d7c3b9a8850800000000000000
+      internalID: 6380082506223702916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 841
+        width: 150
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f12d34711aeb110800000000000000
+      internalID: 1278636465513963282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 793
+        width: 98
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029114d19eab08fd0800000000000000
+      internalID: -2341666295851706080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 930
+        width: 106
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281552177c523c480800000000000000
+      internalID: -8880212501717495422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 998
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa67c8ca0c0241e0800000000000000
+      internalID: -2215194826255144278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1004
+        width: 71
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d645b177f19754e70800000000000000
+      internalID: 9098811798221182061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_6
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 947
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6a3294086c73a20800000000000000
+      internalID: 3042118327597246178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 942
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc241342bdb84c130800000000000000
+      internalID: 3586144976615064268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_8
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 970
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297c72b91a5e8c110800000000000000
+      internalID: 1281526576242476946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 970
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f0596aac371a00800000000000000
+      internalID: 727116567452644402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 969
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b131bd0d8f27c6880800000000000000
+      internalID: -8616385574085127397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 916
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dbc3e4e5a1b4740800000000000000
+      internalID: 5137228792288034093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 947
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c757e166a04ccd00800000000000000
+      internalID: 994240701093337032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_13
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 874
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29d0c8ca3b64b060800000000000000
+      internalID: 6968312423669356846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_14
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 942
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e68575046f578c0800000000000000
+      internalID: -4002021937645064611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 904
+        width: 96
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b905171556089ab0800000000000000
+      internalID: -5001240423665694288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 904
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e165c89a6ebb420800000000000000
+      internalID: 2646962821888613896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 904
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c932289e35aca42e0800000000000000
+      internalID: -2140676211112533092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 935
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67934446dccba3770800000000000000
+      internalID: 8591386829499152758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 737
+        width: 79
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8123004bcd7947f60800000000000000
+      internalID: 8031211009676947992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 829
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1754b1aae586fe5f0800000000000000
+      internalID: -725246259193232015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_21
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 892
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bfd317d291ad2a0800000000000000
+      internalID: -6712024611678192874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 831
+        width: 142
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b80f2e63ee1c7f50800000000000000
+      internalID: 6880408292870260919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_23
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 827
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f57a1280938a000800000000000000
+      internalID: 47350503174528839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_24
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 900
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c98a5923d76dc30800000000000000
+      internalID: 4383828943504448521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 570
+        width: 154
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9471b950a60672bc0800000000000000
+      internalID: -3807968951441615031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 570
+        width: 127
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597d993204fe15cf0800000000000000
+      internalID: -265167844283918443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 793
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caab75575541bc80800000000000000
+      internalID: -8308783596123215161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_28
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 713
+        width: 111
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97bb28a5bd0a7aa0800000000000000
+      internalID: -6162598066241423460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_29
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 805
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e782fececab375f20800000000000000
+      internalID: 3411260856651950206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 679
+        width: 118
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0bdcdf9da973d50800000000000000
+      internalID: 6717007630303080703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_31
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 679
+        width: 100
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02efe9b8688681360800000000000000
+      internalID: 7140572136273280544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_32
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 827
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16d4cf5f5a713e40800000000000000
+      internalID: 5634419158864418333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 534
+        width: 136
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e73bd5941a9d5510800000000000000
+      internalID: 1539556060834772961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_34
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 738
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a36fda3a8e30a90800000000000000
+      internalID: -7348774377242609127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 714
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf3b60e52eaac80800000000000000
+      internalID: -8310581268891567116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_36
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 785
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e27f23aa3bc3d70800000000000000
+      internalID: 9024285296924503639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_37
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 738
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a26429fd0e7e430800000000000000
+      internalID: 3812262860428814934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 534
+        width: 148
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abde56f6a6bbdc6e0800000000000000
+      internalID: -1815589008950563398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_39
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 582
+        width: 191
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849f6f58bcbb3b900800000000000000
+      internalID: 699108849972869448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_40
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 582
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170083b210fb91190800000000000000
+      internalID: -7991146052051271567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_41
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 609
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bdc490e92505d10800000000000000
+      internalID: 2112279063951104873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_42
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 655
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07606af43dd880200800000000000000
+      internalID: 146522926603437680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_43
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 679
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cb5f82d67794e90800000000000000
+      internalID: -7040965231694726075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_44
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 385
+        width: 107
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be2febebdd949810800000000000000
+      internalID: 1771214121345167029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_45
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 609
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f44280e058e0a960800000000000000
+      internalID: 7611338804317799667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_46
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 605
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b208d3f381bb510800000000000000
+      internalID: 1565871955335195410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_47
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 605
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b999a3058708bfb0800000000000000
+      internalID: -4631943948877063758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 192
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7513ff0d1ce93f70800000000000000
+      internalID: 9167618126055150974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_49
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 529
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c899e0dc4e179fa0800000000000000
+      internalID: -5794129080317536063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_50
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 534
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08899dddf001cb00800000000000000
+      internalID: 846959295266916367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_51
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 386
+        width: 259
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1703118e217848ab0800000000000000
+      internalID: -5006728370456547215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_52
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 555
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d108c8621edd9d0800000000000000
+      internalID: -2747792641943921369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_53
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 520
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1806164d4e924d4a0800000000000000
+      internalID: -6569579893634277247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 131
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3959fcfbf7a79c890800000000000000
+      internalID: -7437278620528175725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_55
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 304
+        width: 268
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f97305863c02440800000000000000
+      internalID: 4909138446623678363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_56
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 449
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadc87a923be56e00800000000000000
+      internalID: 1037493891751267756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_57
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 385
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d7498f707c17940800000000000000
+      internalID: 5292229874186222982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_58
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 438
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9e8c95c339ff30800000000000000
+      internalID: 4609772617418579111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_59
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 304
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ef71295ccd819a0800000000000000
+      internalID: -6262012540740960710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_60
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 234
+        width: 308
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f9bc85cc3029a20800000000000000
+      internalID: 3067518472390680460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_61
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 336
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ec002af1da3a20800000000000000
+      internalID: 3042975370451936855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_62
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 370
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eaa73a981a12f60800000000000000
+      internalID: 8007859224966770229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 329
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3c286a60af09cd0800000000000000
+      internalID: -2553266082248735798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_64
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2
+        width: 349
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a58078efa2b9b360800000000000000
+      internalID: 7185971149035046309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_65
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 234
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7576d6fe96c6fc30800000000000000
+      internalID: 4392916872594879868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guest13_66
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e935cf6f7fd4cdd0800000000000000
+      internalID: -2466600957463152157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      guest13_0: 6380082506223702916
+      guest13_1: 1278636465513963282
+      guest13_10: -8616385574085127397
+      guest13_11: 5137228792288034093
+      guest13_12: 994240701093337032
+      guest13_13: 6968312423669356846
+      guest13_14: -4002021937645064611
+      guest13_15: -5001240423665694288
+      guest13_16: 2646962821888613896
+      guest13_17: -2140676211112533092
+      guest13_18: 8591386829499152758
+      guest13_19: 8031211009676947992
+      guest13_2: -2341666295851706080
+      guest13_20: -725246259193232015
+      guest13_21: -6712024611678192874
+      guest13_22: 6880408292870260919
+      guest13_23: 47350503174528839
+      guest13_24: 4383828943504448521
+      guest13_25: -3807968951441615031
+      guest13_26: -265167844283918443
+      guest13_27: -8308783596123215161
+      guest13_28: -6162598066241423460
+      guest13_29: 3411260856651950206
+      guest13_3: -8880212501717495422
+      guest13_30: 6717007630303080703
+      guest13_31: 7140572136273280544
+      guest13_32: 5634419158864418333
+      guest13_33: 1539556060834772961
+      guest13_34: -7348774377242609127
+      guest13_35: -8310581268891567116
+      guest13_36: 9024285296924503639
+      guest13_37: 3812262860428814934
+      guest13_38: -1815589008950563398
+      guest13_39: 699108849972869448
+      guest13_4: -2215194826255144278
+      guest13_40: -7991146052051271567
+      guest13_41: 2112279063951104873
+      guest13_42: 146522926603437680
+      guest13_43: -7040965231694726075
+      guest13_44: 1771214121345167029
+      guest13_45: 7611338804317799667
+      guest13_46: 1565871955335195410
+      guest13_47: -4631943948877063758
+      guest13_48: 9167618126055150974
+      guest13_49: -5794129080317536063
+      guest13_5: 9098811798221182061
+      guest13_50: 846959295266916367
+      guest13_51: -5006728370456547215
+      guest13_52: -2747792641943921369
+      guest13_53: -6569579893634277247
+      guest13_54: -7437278620528175725
+      guest13_55: 4909138446623678363
+      guest13_56: 1037493891751267756
+      guest13_57: 5292229874186222982
+      guest13_58: 4609772617418579111
+      guest13_59: -6262012540740960710
+      guest13_6: 3042118327597246178
+      guest13_60: 3067518472390680460
+      guest13_61: 3042975370451936855
+      guest13_62: 8007859224966770229
+      guest13_63: -2553266082248735798
+      guest13_64: 7185971149035046309
+      guest13_65: 4392916872594879868
+      guest13_66: -2466600957463152157
+      guest13_7: 3586144976615064268
+      guest13_8: 1281526576242476946
+      guest13_9: 727116567452644402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,132 @@
+[
+  {
+    "tid": "G1_01",
+    "desc": "",
+    "guest_tid": "손님_13",
+    "orders": [
+      {
+        "m": "어묵_1",
+        "c": 1
+      }
+    ],
+    "patience_time": 20,
+    "line": 1
+  },
+  {
+    "tid": "G1_02",
+    "desc": "",
+    "guest_tid": "손님_13",
+    "orders": [
+      {
+        "m": "어묵_1",
+        "c": 1
+      }
+    ],
+    "patience_time": 3,
+    "line": 1
+  },
+  {
+    "tid": "G1_03",
+    "desc": "",
+    "guest_tid": "손님_13",
+    "orders": [
+      {
+        "m": "어묵_1",
+        "c": 1
+      }
+    ],
+    "patience_time": 2,
+    "line": 1
+  },
+  {
+    "tid": "G1_04",
+    "desc": "",
+    "guest_tid": "손님_07",
+    "orders": [
+      {
+        "m": "떡볶이_1",
+        "c": 1
+      }
+    ],
+    "patience_time": 20,
+    "line": 1
+  },
+  {
+    "tid": "G1_05",
+    "desc": "",
+    "guest_tid": "손님_07",
+    "orders": [
+      {
+        "m": "떡볶이_1",
+        "c": 1
+      }
+    ],
+    "patience_time": 3,
+    "line": 1
+  },
+  {
+    "tid": "G1_06",
+    "desc": "",
+    "guest_tid": "손님_07",
+    "orders": [
+      {
+        "m": "떡볶이_1",
+        "c": 1
+      }
+    ],
+    "patience_time": 2,
+    "line": 1
+  },
+  {
+    "tid": "G1_07",
+    "desc": "",
+    "guest_tid": "손님_13",
+    "orders": [
+      {
+        "m": "어묵_1",
+        "c": 1
+      }
+    ],
+    "patience_time": 0,
+    "line": 1
+  },
+  {
+    "tid": "G1_08",
+    "desc": "",
+    "guest_tid": "손님_07",
+    "orders": [
+      {
+        "m": "떡볶이_1",
+        "c": 1
+      }
+    ],
+    "patience_time": 0,
+    "line": 1
+  },
+  {
+    "tid": "G1_07",
+    "desc": "",
+    "guest_tid": "손님_13",
+    "orders": [
+      {
+        "m": "어묵_1",
+        "c": 2
+      }
+    ],
+    "patience_time": 0,
+    "line": 1
+  },
+  {
+    "tid": "G1_08",
+    "desc": "",
+    "guest_tid": "손님_07",
+    "orders": [
+      {
+        "m": "떡볶이_1",
+        "c": 2
+      }
+    ],
+    "patience_time": 0,
+    "line": 1
+  }
+]

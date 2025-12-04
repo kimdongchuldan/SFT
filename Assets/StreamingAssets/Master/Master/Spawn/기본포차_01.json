@@ -1,0 +1,62 @@
+[
+  {
+    "tid": "기본포차01_01",
+    "desc": "",
+    "guest_tid": "손님_13",
+    "orders": [
+      "오뎅"
+    ],
+    "patience_time": 10,
+    "line": 1
+  },
+  {
+    "tid": "기본포차01_02",
+    "desc": "",
+    "guest_tid": "손님_13",
+    "orders": [
+      "오뎅"
+    ],
+    "patience_time": 3,
+    "line": 1
+  },
+  {
+    "tid": "기본포차01_03",
+    "desc": "",
+    "guest_tid": "손님_13",
+    "orders": [
+      "오뎅"
+    ],
+    "patience_time": 2,
+    "line": 1
+  },
+  {
+    "tid": "기본포차01_04",
+    "desc": "",
+    "guest_tid": "손님_07",
+    "orders": [
+      "떡볶이"
+    ],
+    "patience_time": 20,
+    "line": 1
+  },
+  {
+    "tid": "기본포차01_05",
+    "desc": "",
+    "guest_tid": "손님_07",
+    "orders": [
+      "떡볶이"
+    ],
+    "patience_time": 3,
+    "line": 1
+  },
+  {
+    "tid": "기본포차01_06",
+    "desc": "",
+    "guest_tid": "손님_07",
+    "orders": [
+      "떡볶이"
+    ],
+    "patience_time": 2,
+    "line": 1
+  }
+]

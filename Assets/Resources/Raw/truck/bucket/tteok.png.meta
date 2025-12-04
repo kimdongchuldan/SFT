@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: f869478b83e46c84aa627044a3adb249
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7868372511032036334
+    second: tteok_0
+  - first:
+      213: 3113811514954213793
+    second: tteok_1
+  - first:
+      213: -8959844657484089221
+    second: tteok_2
+  - first:
+      213: -1936594397643054738
+    second: tteok_3
+  - first:
+      213: -5754033993730868443
+    second: tteok_4
+  - first:
+      213: 7887458445411754327
+    second: tteok_5
+  - first:
+      213: -1765478027198752982
+    second: tteok_6
+  - first:
+      213: 380276596156657465
+    second: tteok_7
+  - first:
+      213: 4509977674490473886
+    second: tteok_8
+  - first:
+      213: 7552989513297421608
+    second: tteok_9
+  - first:
+      213: 737626736199624571
+    second: tteok_10
+  - first:
+      213: 6446873121104312192
+    second: tteok_11
+  - first:
+      213: -6358816193969543025
+    second: tteok_12
+  - first:
+      213: -3297048470540142054
+    second: tteok_13
+  - first:
+      213: 6385116620059142656
+    second: tteok_14
+  - first:
+      213: -8282647699218370614
+    second: tteok_15
+  - first:
+      213: -4757496365746459450
+    second: tteok_16
+  - first:
+      213: 4958616598377088632
+    second: tteok_17
+  - first:
+      213: -6280313623254626634
+    second: tteok_18
+  - first:
+      213: -8484144584252110040
+    second: tteok_19
+  - first:
+      213: -2844724687497277700
+    second: tteok_20
+  - first:
+      213: 2801366699030588952
+    second: tteok_21
+  - first:
+      213: -1239367832214289908
+    second: tteok_22
+  - first:
+      213: 5630278328770212214
+    second: tteok_23
+  - first:
+      213: 7379825924135200443
+    second: tteok_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tteok_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 144
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214bc7fb3ecedc290800000000000000
+      internalID: -7868372511032036334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 431
+        width: 140
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9ed5e331b763b20800000000000000
+      internalID: 3113811514954213793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 424
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78bafb51cc38a380800000000000000
+      internalID: -8959844657484089221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 424
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e616976e7a5df15e0800000000000000
+      internalID: -1936594397643054738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 423
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b3622a1909520b0800000000000000
+      internalID: -5754033993730868443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 445
+        width: 140
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7512c63aaa1e57d60800000000000000
+      internalID: 7887458445411754327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 213
+        width: 107
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a279f029613cf77e0800000000000000
+      internalID: -1765478027198752982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 227
+        width: 103
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fef46ac83074500800000000000000
+      internalID: 380276596156657465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 329
+        width: 282
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d62f0dcc8a69e30800000000000000
+      internalID: 4509977674490473886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 421
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825e754e1fb91d860800000000000000
+      internalID: 7552989513297421608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 319
+        width: 249
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b776204cb939c3a00800000000000000
+      internalID: 737626736199624571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_11
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 318
+        width: 249
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087bf6752f4e77950800000000000000
+      internalID: 6446873121104312192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 331
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88a17eac52f0c7a0800000000000000
+      internalID: -6358816193969543025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 291
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab53272e78e32d0800000000000000
+      internalID: -3297048470540142054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 291
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a61147cbd7c9850800000000000000
+      internalID: 6385116620059142656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 212
+        width: 269
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfe1680dcf1e0d80800000000000000
+      internalID: -8282647699218370614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_16
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 213
+        width: 249
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc687bf24af9fdb0800000000000000
+      internalID: -4757496365746459450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 315
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8764f9b368b80d440800000000000000
+      internalID: 4958616598377088632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 105
+        width: 270
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be8cdfb808d7d8a0800000000000000
+      internalID: -6280313623254626634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_19
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 108
+        width: 249
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b49989373424a80800000000000000
+      internalID: -8484144584252110040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_20
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfec0fdf7f18588d0800000000000000
+      internalID: -2844724687497277700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_21
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 6
+        width: 105
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ea355ab2470e620800000000000000
+      internalID: 2801366699030588952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 6
+        width: 291
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0242d6e581eccee0800000000000000
+      internalID: -1239367832214289908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_23
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 8
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671bdec3f44c22e40800000000000000
+      internalID: 5630278328770212214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tteok_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 6
+        width: 282
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb62c48f3986a6660800000000000000
+      internalID: 7379825924135200443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tteok_0: -7868372511032036334
+      tteok_1: 3113811514954213793
+      tteok_10: 737626736199624571
+      tteok_11: 6446873121104312192
+      tteok_12: -6358816193969543025
+      tteok_13: -3297048470540142054
+      tteok_14: 6385116620059142656
+      tteok_15: -8282647699218370614
+      tteok_16: -4757496365746459450
+      tteok_17: 4958616598377088632
+      tteok_18: -6280313623254626634
+      tteok_19: -8484144584252110040
+      tteok_2: -8959844657484089221
+      tteok_20: -2844724687497277700
+      tteok_21: 2801366699030588952
+      tteok_22: -1239367832214289908
+      tteok_23: 5630278328770212214
+      tteok_24: 7379825924135200443
+      tteok_3: -1936594397643054738
+      tteok_4: -5754033993730868443
+      tteok_5: 7887458445411754327
+      tteok_6: -1765478027198752982
+      tteok_7: 380276596156657465
+      tteok_8: 4509977674490473886
+      tteok_9: 7552989513297421608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

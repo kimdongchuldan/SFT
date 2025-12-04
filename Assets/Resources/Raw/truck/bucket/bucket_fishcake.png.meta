@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 37e23d57d3b0ba947a04c1a9a9b83710
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8799859844631172677
+    second: bucket_fishcake_0
+  - first:
+      213: 7133967300903833102
+    second: bucket_fishcake_1
+  - first:
+      213: 8414046244065959204
+    second: bucket_fishcake_2
+  - first:
+      213: -3203275934665470461
+    second: bucket_fishcake_3
+  - first:
+      213: -3259093003317640439
+    second: bucket_fishcake_4
+  - first:
+      213: -4583966862405605659
+    second: bucket_fishcake_5
+  - first:
+      213: -6623418086779731541
+    second: bucket_fishcake_6
+  - first:
+      213: -1290284086589426819
+    second: bucket_fishcake_7
+  - first:
+      213: -8409201724293521371
+    second: bucket_fishcake_8
+  - first:
+      213: -1651065707447682215
+    second: bucket_fishcake_9
+  - first:
+      213: 1503795607243257519
+    second: bucket_fishcake_10
+  - first:
+      213: -4119636930533977591
+    second: bucket_fishcake_11
+  - first:
+      213: 7663523296938033739
+    second: bucket_fishcake_12
+  - first:
+      213: 6103131485044417391
+    second: bucket_fishcake_13
+  - first:
+      213: 4221886097701487887
+    second: bucket_fishcake_14
+  - first:
+      213: 1867759562112448499
+    second: bucket_fishcake_15
+  - first:
+      213: 6902798441688871525
+    second: bucket_fishcake_16
+  - first:
+      213: 5591602197528043927
+    second: bucket_fishcake_17
+  - first:
+      213: 5893982757998630237
+    second: bucket_fishcake_18
+  - first:
+      213: 470873404068625686
+    second: bucket_fishcake_19
+  - first:
+      213: 1866148064632833227
+    second: bucket_fishcake_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bucket_fishcake_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 710
+        width: 470
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5461770b7e16f1a70800000000000000
+      internalID: 8799859844631172677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 766
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e00a97671f00360800000000000000
+      internalID: 7133967300903833102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_2
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 833
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dd24dba72b4c470800000000000000
+      internalID: 8414046244065959204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 766
+        width: 278
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e05b4528dab83d0800000000000000
+      internalID: -3203275934665470461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 502
+        width: 221
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9038a4f4e2065c2d0800000000000000
+      internalID: -3259093003317640439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 517
+        width: 269
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6e620fc6a7260c0800000000000000
+      internalID: -4583966862405605659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 533
+        width: 221
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c89aa754e414a0800000000000000
+      internalID: -6623418086779731541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_7
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 537
+        width: 278
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d737f7f957df71ee0800000000000000
+      internalID: -1290284086589426819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_8
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 533
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e1eae5938c4b80800000000000000
+      internalID: -8409201724293521371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 395
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b70ce9c7c3619e0800000000000000
+      internalID: -1651065707447682215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 346
+        width: 230
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6f688232e8ed410800000000000000
+      internalID: 1503795607243257519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 181
+        width: 395
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90211f7d90c14d6c0800000000000000
+      internalID: -4119636930533977591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 346
+        width: 327
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b420ce1e5dd4a5a60800000000000000
+      internalID: 7663523296938033739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 230
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f632397ffbda2b450800000000000000
+      internalID: 6103131485044417391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 98
+        width: 139
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0548af8907279a30800000000000000
+      internalID: 4221886097701487887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 176
+        width: 230
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f73d890d6d9be910800000000000000
+      internalID: 1867759562112448499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 98
+        width: 139
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5623cf03c9aabcf50800000000000000
+      internalID: 6902798441688871525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 98
+        width: 136
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791e3f4b29c599d40800000000000000
+      internalID: 5591602197528043927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 150
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5519ca3712abc150800000000000000
+      internalID: 5893982757998630237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 150
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d70bfbdd0e88600800000000000000
+      internalID: 470873404068625686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_fishcake_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 98
+        width: 150
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc409ba07c3e5e910800000000000000
+      internalID: 1866148064632833227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bucket_fishcake_0: 8799859844631172677
+      bucket_fishcake_1: 7133967300903833102
+      bucket_fishcake_10: 1503795607243257519
+      bucket_fishcake_11: -4119636930533977591
+      bucket_fishcake_12: 7663523296938033739
+      bucket_fishcake_13: 6103131485044417391
+      bucket_fishcake_14: 4221886097701487887
+      bucket_fishcake_15: 1867759562112448499
+      bucket_fishcake_16: 6902798441688871525
+      bucket_fishcake_17: 5591602197528043927
+      bucket_fishcake_18: 5893982757998630237
+      bucket_fishcake_19: 470873404068625686
+      bucket_fishcake_2: 8414046244065959204
+      bucket_fishcake_20: 1866148064632833227
+      bucket_fishcake_3: -3203275934665470461
+      bucket_fishcake_4: -3259093003317640439
+      bucket_fishcake_5: -4583966862405605659
+      bucket_fishcake_6: -6623418086779731541
+      bucket_fishcake_7: -1290284086589426819
+      bucket_fishcake_8: -8409201724293521371
+      bucket_fishcake_9: -1651065707447682215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

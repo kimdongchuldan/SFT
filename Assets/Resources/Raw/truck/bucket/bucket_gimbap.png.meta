@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: d549eee26fcfd094289fc57a7bc32940
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4146086112769842098
+    second: bucket_gimbap_0
+  - first:
+      213: 7923716944462378530
+    second: bucket_gimbap_1
+  - first:
+      213: 3394310341431382026
+    second: bucket_gimbap_2
+  - first:
+      213: -3762512860790698696
+    second: bucket_gimbap_3
+  - first:
+      213: -4132374911331059257
+    second: bucket_gimbap_4
+  - first:
+      213: -4838376032308421997
+    second: bucket_gimbap_5
+  - first:
+      213: 1106324955776112339
+    second: bucket_gimbap_6
+  - first:
+      213: -6621898010817465958
+    second: bucket_gimbap_7
+  - first:
+      213: -1111303336204334055
+    second: bucket_gimbap_8
+  - first:
+      213: 7273160772842014238
+    second: bucket_gimbap_9
+  - first:
+      213: 6779868605551773170
+    second: bucket_gimbap_10
+  - first:
+      213: 2519560380678389108
+    second: bucket_gimbap_11
+  - first:
+      213: -4464252354145434158
+    second: bucket_gimbap_12
+  - first:
+      213: -2718425573683823516
+    second: bucket_gimbap_13
+  - first:
+      213: 542947893468470921
+    second: bucket_gimbap_14
+  - first:
+      213: -5014557650215887598
+    second: bucket_gimbap_15
+  - first:
+      213: 4916175617472319818
+    second: bucket_gimbap_16
+  - first:
+      213: -2562499382179845467
+    second: bucket_gimbap_17
+  - first:
+      213: -224745792816740328
+    second: bucket_gimbap_18
+  - first:
+      213: 956750797340311501
+    second: bucket_gimbap_19
+  - first:
+      213: 3933512259406463661
+    second: bucket_gimbap_20
+  - first:
+      213: -1804063541884071978
+    second: bucket_gimbap_21
+  - first:
+      213: -2519652269160371601
+    second: bucket_gimbap_22
+  - first:
+      213: -4613335293207725798
+    second: bucket_gimbap_23
+  - first:
+      213: -7662998652165641244
+    second: bucket_gimbap_24
+  - first:
+      213: -7061049601484955202
+    second: bucket_gimbap_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bucket_gimbap_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 284
+        width: 74
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb93d74a5bd98930800000000000000
+      internalID: 4146086112769842098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 284
+        width: 55
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2267c6f4492b6fd60800000000000000
+      internalID: 7923716944462378530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 282
+        width: 59
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00d37e85430b1f20800000000000000
+      internalID: 3394310341431382026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 462
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d4bbddc7ed8cbc0800000000000000
+      internalID: -3762512860790698696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 267
+        width: 55
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9306399ead6a6c0800000000000000
+      internalID: -4132374911331059257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 462
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a1e7822a2aadcb0800000000000000
+      internalID: -4838376032308421997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 441
+        width: 246
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d65f2b8fa47a5f00800000000000000
+      internalID: 1106324955776112339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 435
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91fb5ee7da4a14a0800000000000000
+      internalID: -6621898010817465958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 267
+        width: 74
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c85dfe08bd390f0800000000000000
+      internalID: -1111303336204334055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 267
+        width: 74
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16cd8320357fe460800000000000000
+      internalID: 7273160772842014238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 246
+        width: 74
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f58cb1539ee61e50800000000000000
+      internalID: 6779868605551773170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 381
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dbb7821d647f220800000000000000
+      internalID: 2519560380678389108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 221
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c573f22acb02c0800000000000000
+      internalID: -4464252354145434158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 381
+        width: 146
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cfc34f756364ad0800000000000000
+      internalID: -2718425573683823516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 51
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e1cb18b30f88700800000000000000
+      internalID: 542947893468470921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 51
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d1a29a266b86ab0800000000000000
+      internalID: -5014557650215887598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 51
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41dfd45da3c93440800000000000000
+      internalID: 4916175617472319818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 102
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa230c736c207cd0800000000000000
+      internalID: -2562499382179845467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 99
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818056664ea81ecf0800000000000000
+      internalID: -224745792816740328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1
+        width: 63
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf7a06f7cf074d00800000000000000
+      internalID: 956750797340311501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 161
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2019d2f84a69630800000000000000
+      internalID: 3933512259406463661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df44c954cda6f6e0800000000000000
+      internalID: -1804063541884071978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_22
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 161
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a60336c95680dd0800000000000000
+      internalID: -2519652269160371601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 161
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b49a4ef32affb0800000000000000
+      internalID: -4613335293207725798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebae5f735f87a590800000000000000
+      internalID: -7662998652165641244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket_gimbap_25
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 161
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1631a6ccc120e90800000000000000
+      internalID: -7061049601484955202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bucket_gimbap_0: 4146086112769842098
+      bucket_gimbap_1: 7923716944462378530
+      bucket_gimbap_10: 6779868605551773170
+      bucket_gimbap_11: 2519560380678389108
+      bucket_gimbap_12: -4464252354145434158
+      bucket_gimbap_13: -2718425573683823516
+      bucket_gimbap_14: 542947893468470921
+      bucket_gimbap_15: -5014557650215887598
+      bucket_gimbap_16: 4916175617472319818
+      bucket_gimbap_17: -2562499382179845467
+      bucket_gimbap_18: -224745792816740328
+      bucket_gimbap_19: 956750797340311501
+      bucket_gimbap_2: 3394310341431382026
+      bucket_gimbap_20: 3933512259406463661
+      bucket_gimbap_21: -1804063541884071978
+      bucket_gimbap_22: -2519652269160371601
+      bucket_gimbap_23: -4613335293207725798
+      bucket_gimbap_24: -7662998652165641244
+      bucket_gimbap_25: -7061049601484955202
+      bucket_gimbap_3: -3762512860790698696
+      bucket_gimbap_4: -4132374911331059257
+      bucket_gimbap_5: -4838376032308421997
+      bucket_gimbap_6: 1106324955776112339
+      bucket_gimbap_7: -6621898010817465958
+      bucket_gimbap_8: -1111303336204334055
+      bucket_gimbap_9: 7273160772842014238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

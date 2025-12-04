@@ -1,0 +1,42 @@
+[
+  {
+    "tid": "S_1",
+    "name": "",
+    "index": 1,
+    "prefab": "",
+    "truck_tid": "기본포차",
+    "line_count": 1
+  },
+  {
+    "tid": "S_2",
+    "name": "",
+    "index": 2,
+    "prefab": "",
+    "truck_tid": "기본포차",
+    "line_count": 1
+  },
+  {
+    "tid": "S_3",
+    "name": "",
+    "index": 3,
+    "prefab": "",
+    "truck_tid": "기본포차",
+    "line_count": 2
+  },
+  {
+    "tid": "S_4",
+    "name": "",
+    "index": 4,
+    "prefab": "",
+    "truck_tid": "기본포차",
+    "line_count": 2
+  },
+  {
+    "tid": "S_5",
+    "name": "",
+    "index": 5,
+    "prefab": "",
+    "truck_tid": "기본포차",
+    "line_count": 3
+  }
+]
