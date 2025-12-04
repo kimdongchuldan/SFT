@@ -100,5 +100,5 @@ InitTestScene*.unity*
 Assets/StreamingAssets/credentials.json
 Assets/StreamingAssets/credentials.json.meta
 Assets/StreamingAssets/token.json.meta
-Assets/StreamingAssets/token.json/Google.Apis.Auth.OAuth2.Responses.TokenResponse-user
-Assets/StreamingAssets/token.json/Google.Apis.Auth.OAuth2.Responses.TokenResponse-user.meta
+Assets/StreamingAssets/token.json/
+Assets/StreamingAssets/token.json/
